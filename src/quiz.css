@@ -1,0 +1,20 @@
+/* .rankings {
+  border: 2px solid black;
+}
+
+.rankings-stack {
+  display: flex;
+  flex-direction: column;
+}
+
+.image {
+  width: 25vw;
+  height: 25vw;
+  overflow: hidden;
+  border: 2px solid blue;
+}
+
+.image img {
+  object-fit: cover;
+  display: block;
+} */
